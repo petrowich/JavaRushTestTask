@@ -1,0 +1,23 @@
+table {
+  border: 1px solid #69c;
+  margin: 0 auto;}
+th {
+  font-weight: normal;
+  color: #039;
+  border-bottom: 1px dashed #69c;
+  padding: 12px 17px;
+}
+td {
+  color: #039;
+  padding: 7px 17px;
+}
+tr:hover td {background: #ccddff;}
+
+tr:hover td {background: #ccddff;}
+
+table tr td a {text-decoration: none;}
+table tr td a:visited {text-decoration: none;}
+table tr td a:hover {text-decoration: underline;}
+
+table tr td a.remove {color: darkred; text-decoration: none;}
+table tr td a.remove:hover {color: red}
